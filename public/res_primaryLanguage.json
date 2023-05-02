@@ -85,28 +85,35 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "Code Fellows",
+      "title": "Software Developer",
+      "years": "01.2023 - present",
+      "mainTech": [""],
       "technologies": [
         "REST API",
         "RxJS",
         "JavaScript",
         "Bootstrap",
         "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Github"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "EMI Health",
+      "title": "Customer Service Representative",
+      "years": "09.2022 - present",
+      "mainTech": [""],
+      "technologies": [
+        "Clear Communication Skills",
+        "Empathy",
+        "Adaptability",
+        "Time Management",
+        "Willingness to Improve"
+      ]
     }
   ]
 }
